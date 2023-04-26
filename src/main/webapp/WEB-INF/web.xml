@@ -2,10 +2,7 @@
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
-</web-app>
-<!--
-<web-app>
+    <display-name>LifeCycleServlet</display-name>
 	<servlet>
 		<servlet-name>LifeCycleServlet</servlet-name>
 		<servlet-class>LifeCycleServlet</servlet-class>
@@ -17,8 +14,8 @@
 	<session-config>
 		<session-timeout>
 			30
-		</session-config>
+		</session-timeout>
+	</session-config>
 </web-app>
--->
 
 
