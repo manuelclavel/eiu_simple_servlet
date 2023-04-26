@@ -5,7 +5,7 @@
     <display-name>LifeCycleServlet</display-name>
 	<servlet>
 		<servlet-name>LifeCycleServlet</servlet-name>
-		<servlet-class>LifeCycleServlet</servlet-class>
+		<servlet-class>main.LifeCycleServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>LifeCycleServlet</servlet-name>
