@@ -5,6 +5,9 @@ import java.io.*;
 
 // now creating a servlet by implementing Servlet interface
 public class LifeCycleServlet implements Servlet {
+	
+	private static final long serialVersionUID = 102831973239L;
+
 
 	ServletConfig config = null;
 
